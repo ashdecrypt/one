@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-this is the first thing im writing heresssss
-=======
-this is the first thing im writing here
 
-
-now im gonna try to pull back to the pc
->>>>>>> f91bc437d09089f98f72ad0a25a02ad59e03a0cd
+once again
